@@ -34,6 +34,10 @@ v1.1.2 is the final version of Mavericks support.<br>
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
+### Localization Contributors
+Clipy is looking for localization contributors.<br>
+If you can cooperate, please see [CONTRIBUTING.md](https://github.com/Clipy/Clipy/blob/develop/.github/CONTRIBUTING.md)
+
 ### Distribution
 If you distribute derived work, especially in the Mac App Store, I ask you to follow two rules:
 
@@ -42,7 +46,7 @@ If you distribute derived work, especially in the Mac App Store, I ask you to fo
 
 Thank you for your cooperation.
 
-### Licence
+### License
 Clipy is available under the MIT license. See the LICENSE file for more info.
 
 Icons are copyrighted by their respective authors.
